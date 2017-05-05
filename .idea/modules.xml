@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ComicCrawl.iml" filepath="$PROJECT_DIR$/.idea/ComicCrawl.iml" />
+      <module fileurl="file://E:/SrcCode/LearningScrapyCode/.idea/LearningScrapyCode.iml" filepath="E:/SrcCode/LearningScrapyCode/.idea/LearningScrapyCode.iml" />
+      <module fileurl="file://E:/SrcCode/WeChatArticle/.idea/WeChatArticles.iml" filepath="E:/SrcCode/WeChatArticle/.idea/WeChatArticles.iml" />
+      <module fileurl="file://E:/SrcCode/WechatArticles/.idea/WechatArticles.iml" filepath="E:/SrcCode/WechatArticles/.idea/WechatArticles.iml" />
+      <module fileurl="file://E:/SrcCode/py2.7.12_test/.idea/py2.7.12_test.iml" filepath="E:/SrcCode/py2.7.12_test/.idea/py2.7.12_test.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/tt/.idea/tt.iml" filepath="$USER_HOME$/Desktop/tt/.idea/tt.iml" />
+    </modules>
+  </component>
+</project>
